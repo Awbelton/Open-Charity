@@ -1,0 +1,15 @@
+name = Open Charity
+description = Drupal theme for Open Charity created by Anthony W Belton.
+core = 7.x
+engine = phptemplate
+
+regions[banner] = Banner
+regions[under_ban] = Under Banner
+regions[involved] = Get Involved
+regions[mission_members] = Members & Mission
+regions[content] = Blog
+regions[footer] = Footer
+
+stylesheets[all][] = css/style.css
+
+scripts[] = js/
